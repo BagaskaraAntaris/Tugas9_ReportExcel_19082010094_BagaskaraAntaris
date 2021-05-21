@@ -98,8 +98,8 @@
 				</div>
 				<div class="form-group row">
 					<div class="col-sm-10">
-						<button type="submit" name="submit" class="btn btn-primary"><a href="excel/reportdataexcel.php" style="color: white;
-			text-decoration: none;">EXPORT TO EXCEL</a></button>
+						<button type="submit" name="submit" class="btn btn-primary"><a href="report.php" style="color: white;
+			text-decoration: none;">EXPORT TO PDF</a></button>
 					</div>
 				</div>
 			</div>
